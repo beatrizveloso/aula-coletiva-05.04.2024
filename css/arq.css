@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.big{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.retangle {
+    width: 550px;
+    height: 230px;
+    margin-top: 1%;
+    background-color: #059e7d;
+}
+
+.title{
+    color: white;
+    margin-top: 31%;
+    padding-left: 6%;
+}
+
+.textgroup{
+    width: 280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1%;
+    color: blue;
+}
+
+.text1 {
+    margin-top: 2%;
+}
+
+.text2{
+    width: 550px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2%;
+}
+
+.text3{
+    width: 550px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2%;
+}
